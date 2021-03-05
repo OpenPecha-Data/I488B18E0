@@ -1,40 +1,46 @@
-id: opecha:P008160
+id: P008160
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD401
   title: སྨན་ཐང་རྒྱས་འགྲེལ།
-  volume:
+  author: ''
+  volumes:
     a233dfe148694043ac15f228c40c6812:
       image_group_id: I3PD421
       title: Volume 1 of sman thang rgyas 'grel/
       volume_number: 1
       total_pages: 414
+      base_file: v001.txt
     66c062613e28433eb2bb59c64424d673:
       image_group_id: I3PD422
       title: Volume 2 of sman thang rgyas 'grel/
       volume_number: 2
       total_pages: 414
+      base_file: v002.txt
     c92241b28ca2493393cfbc7ca1ac687e:
       image_group_id: I3PD423
       title: Volume 3 of sman thang rgyas 'grel/
       volume_number: 3
       total_pages: 410
+      base_file: v003.txt
     cc11b9f94dc74a8ca1cc558a54c858eb:
       image_group_id: I3PD424
       title: Volume 4 of sman thang rgyas 'grel/
       volume_number: 4
       total_pages: 410
+      base_file: v004.txt
     d3ea0f2a33a24b45a1b3429f0b39a392:
       image_group_id: I3PD425
       title: Volume 5 of sman thang rgyas 'grel/
       volume_number: 5
       total_pages: 402
+      base_file: v005.txt
     07089a056e8a4a6aaaa1db5f7f90472e:
       image_group_id: I3PD426
       title: Volume 6 of sman thang rgyas 'grel/
       volume_number: 6
       total_pages: 410
-  author: ''
+      base_file: v006.txt
 ebook_metadata:
   title: སྨན་ཐང་རྒྱས་འགྲེལ།
   author: ''
