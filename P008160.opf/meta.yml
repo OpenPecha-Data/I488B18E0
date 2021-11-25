@@ -1,5 +1,7 @@
 id: P008160
 initial_creation_type: ocr
+created_at: 27/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3PD401
   title: སྨན་ཐང་རྒྱས་འགྲེལ།
@@ -41,10 +43,3 @@ source_metadata:
       volume_number: 6
       total_pages: 410
       base_file: v006.txt
-ebook_metadata:
-  title: སྨན་ཐང་རྒྱས་འགྲེལ།
-  author: ''
-  sku: P008160
-  cover: cover.jpg
-  layers:
-  - pagination
